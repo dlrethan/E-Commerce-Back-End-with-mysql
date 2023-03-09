@@ -2,6 +2,10 @@
 
 This is a back-end application for an ecommerce website that allows users to create, read, update, and delete products and categories in a database.
 
+## Video Walkthrough
+
+https://youtu.be/5VI2s7w9rQI
+
 ## Technologies Used
 
 JavaScript
